@@ -77,10 +77,10 @@ Possuo perfil comunicativo e valorizo o trabalho em equipe. Minha ambição prof
   />
   <img 
       align="left" 
-      alt="GitHub Stats" 
+      alt="Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonath-caik&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=3" 
+      style="padding-right: 10px;" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonath-caik&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=3" 
   />
 </p>
-
 
