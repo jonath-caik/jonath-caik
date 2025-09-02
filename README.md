@@ -4,7 +4,7 @@
 
 
 Prezado(a) Senhor(a),
-Apresento-me como Jonath Caik, profissional com 20 anos de idade e residente em Salvador, Bahia. Atuo como entusiasta e desenvolvedor front-end junior , dedicando-me à criação de interfaces funcionais, esteticamente agradáveis e estruturadas com código limpo e organizado.
+Apresento-me como Jonath Caik, profissional e residente em Salvador, Bahia. Atuo como entusiasta e desenvolvedor front-end junior , dedicando-me à criação de interfaces funcionais, esteticamente agradáveis e estruturadas com código limpo e organizado.
 Atualmente, sou estudante do curso de Engenharia de Software na Unijorge, formação que me proporciona a base teórica e prática para alcançar meus objetivos profissionais. Busco continuamente aprimorar meus conhecimentos, visando agregar valor significativo aos projetos em que colaboro, mantendo um forte compromisso com o cumprimento de prazos.
 Possuo perfil comunicativo e valorizo o trabalho em equipe. Minha ambição profissional é evoluir para a área de desenvolvimento full-stack, crescendo através dos desafios e projetos que desenvolvo. Para informações adicionais sobre minha trajetória e trabalhos, convido a acessar meus perfis no "  [ Linkdin Jonath caik](https://www.linkedin.com/in/jonath-caik/) " e " [instagram jonh_reeis](https://www.instagram.com/jonh_reeis/?__pwa=1) " , bem como meu portfólio de projetos individuais e em equipe, disponíveis para contato.
 
