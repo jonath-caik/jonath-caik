@@ -6,19 +6,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Jonath-Caik&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Front-End+Developer+%7C+Software+Eng.+Student&descAlignY=55&descSize=18" />
 </div>
 
-<!-- TYPING ANIMATION -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=600&color=00F2FE&center=true&vCenter=true&width=750&lines=🚀+Front-End+Developer+in+Progress;👨‍💻+Software+Engineering+Student;🎨+Clean+UI+%26+UX+Obsessed;⚡+React+%7C+TypeScript+%7C+JavaScript;🌍+Building+from+Salvador%2C+Bahia+%7C+BR;💡+Turning+ideas+into+interfaces" />
-</div>
 
 <br/>
 
+
 <!-- PROFILE VIEWS + BADGES -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jonath-caik&label=👁️+Profile+Views&color=0d1117&style=for-the-badge&labelColor=00f2fe" />
-  <img src="https://img.shields.io/github/followers/jonath-caik?label=Followers&style=for-the-badge&color=0d1117&labelColor=00f2fe&logo=github" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00f2fe?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=jonath-caik&label=👁️+Profile+Views&color=6d0000&style=for-the-badge&labelColor=4a0000" />
+  <img src="https://img.shields.io/github/followers/jonath-caik?label=Followers&style=for-the-badge&color=6d0000&labelColor=4a0000&logo=github&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-6d0000?style=for-the-badge&logo=checkmarx&logoColor=000000&labelColor=4a0000" />
 </div>
+
 
 <br/>
 
@@ -108,10 +106,6 @@ Git / GitHub   ███████████████░░░░░░  
 
 ## 🚀 Projetos em Destaque
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=💡+Cada+projeto+foi+uma+batalha+vencida...;🔥+Do+zero+ao+deploy+—+sem+parar;🧠+Aprendendo+na+prática+%7C+Construindo+o+futuro" />
-</div>
-
 <br/>
 
 <!-- ★ PROJETO DESTAQUE 1 ★ -->
@@ -144,7 +138,7 @@ Git / GitHub   ███████████████░░░░░░  
 <!-- ★ PROJETO DESTAQUE 2 ★ -->
 <div align="center">
 
-### 🌿 `[ PROJETO PRINCIPAL ]` — Nea Bem Estar
+### 🌿 `[ PROJETO COM COLABORADORES ]` — Nea Bem Estar
 
 <a href="https://github.com/jonath-caik/NeaBemEstar">
   <img src="https://img.shields.io/badge/🔗_ACESSAR_PROJETO-2ECC71?style=for-the-badge&logoColor=white"/>
@@ -191,16 +185,14 @@ Git / GitHub   ███████████████░░░░░░  
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonath-caik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f2fe&icon_color=00f2fe"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonath-caik&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe"/>
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=jonath-caik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f2fe&icon_color=00f2fe"/>
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=jonath-caik&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonath-caik&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f2fe&ring=00f2fe&fire=ff6b35&currStreakLabel=00f2fe" />
+  <img src="https://streak-stats.demolab.com/?user=jonath-caik&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f2fe&ring=00f2fe&fire=ff6b35&currStreakLabel=00f2fe" />
 </div>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonath-caik&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=00f2fe&line=00f2fe&point=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonath-caik&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=00f2fe&line=00f2fe&point=white" />
 </div>
 
 ---
@@ -212,7 +204,7 @@ Git / GitHub   ███████████████░░░░░░  
 ## 🏆 Conquistas GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jonath-caik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-trophies.vercel.app/?username=jonath-caik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 </div>
 
 ---
@@ -224,7 +216,7 @@ Git / GitHub   ███████████████░░░░░░  
 ## 🗺️ Minha Jornada
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=FFD700&center=true&vCenter=true&width=600&lines=De+zero+a+dev...+uma+linha+de+cada+vez+💛;Cada+commit+é+um+passo+a+mais+🚶‍♂️➡️🏃‍♂️;A+jornada+não+termina+—+só+muda+de+nível+🆙" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=55&text=🚀+De+zero+a+dev+—+uma+linha+de+cada+vez+💛&fontSize=18&fontColor=FFD700&animation=twinkling&width=800" />
 </div>
 
 <br/>
@@ -333,6 +325,7 @@ Git / GitHub   ███████████████░░░░░░  
   <i>Se gostou do meu perfil, deixa uma ⭐ em algum projeto — significa muito!</i>
 </div>
 
+---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   SNAKE CONTRIBUTION                           -->
@@ -344,7 +337,6 @@ Git / GitHub   ███████████████░░░░░░  
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-    certer
   />
   <source
     media="(prefers-color-scheme: light)"
@@ -355,7 +347,9 @@ Git / GitHub   ███████████████░░░░░░  
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
 ---
+
 <!-- FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
