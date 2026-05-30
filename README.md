@@ -216,7 +216,7 @@ Git / GitHub   ███████████████░░░░░░  
 ## 🗺️ Minha Jornada
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=55&text=🚀+De+zero+a+dev+—+uma+linha+de+cada+vez+💛&fontSize=18&fontColor=FFD700&animation=twinkling&width=800" />
+  <img src="https://raw.githubusercontent.com/jonath-caik/jonath-caik/main/journey.svg" alt="Minha Jornada" width="800"/>
 </div>
 
 <br/>
