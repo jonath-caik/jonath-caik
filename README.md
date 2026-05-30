@@ -1,89 +1,124 @@
-# 📡 [NEXUS OVERRIDE PROTOCOL: INFILTRATION ACTIVE] [v4.1]
+<!-- HEADER ANIMADO -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,0d0d0d,00f2fe&height=200&text=%5B+SYSTEM+OVERRIDE:+JONATH_CAIK+%5D&fontSize=30&animation=twinkling&fontColor=00f2fe&fontAlignY=40" />
+</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=050505&height=180&text=%5B+SYSTEM+OVERRIDE:+JONATH_CAIK+%5D&fontSize=38&animation=twinkling&fontColor=00f2fe" width="100%" />
+
+```bash
+$ whoami
+> jonath-caik // Front-End Developer | Software Eng. Student
+> NODE_IP: Salvador, Bahia, BR 🇧🇷
+> STATUS: [■■■■■■■■░░] LOADING SKILLS...
+> TARGET: Clean UI • React • TypeScript
+```
+
 </div>
 
 ---
 
-## 🕶️ [HACKER ALIAS: jonath-caik] // [GRANDMASTER RANK]
+## 🕶️ `// OPERATOR PROFILE`
 
-<div align="left">
-  <img src="https://img.shields.io/badge/IDENTITY-UNIQUE__OPERATOR-7303c0?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/TARGET-FRONTEND__DESTRUCTION-00f2fe?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/NODE__IP-SALVADOR__BAHIA__GRID-2ecc71?style=for-the-badge&logo=wireshark&logoColor=white" />
-</div>
+```json
+{
+  "alias"     : "jonath-caik",
+  "role"      : "Front-End Dev in Progress",
+  "base"      : "Salvador, Bahia — GRID SECTOR BR-NE",
+  "objective" : "Construir interfaces que dominam a experiência do usuário",
+  "status"    : "🎯 Focando",
+  "languages" : ["PT 🇧🇷", "EN 🌍"]
+}
+```
 
-<br>
+---
+
+## ⚡ `// ARSENAL DE COMBATE`
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=500&color=00F2FE&center=true&vCenter=true&width=750&lines=%3E+exploiting+target+server+ip...%5BDONE%5D;%3E+deploying+payload+into+frontend+nexus...;%3E+Dona+Pizza+exploit+v3.1+active...%5B100%25%5D;%3E+extracting+Figma+layout+blueprints...;%3E+Admin+credentials+harvested.+Welcome%2C+Caik." alt="Hacker Terminal" />
+
+![React](https://img.shields.io/badge/React-%2300f2fe?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%230d0d0d?style=for-the-badge&logo=typescript&logoColor=00f2fe)
+![JavaScript](https://img.shields.io/badge/JavaScript-%230d0d0d?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![HTML5](https://img.shields.io/badge/HTML5-%230d0d0d?style=for-the-badge&logo=html5&logoColor=e34f26)
+![CSS3](https://img.shields.io/badge/CSS3-%230d0d0d?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Figma](https://img.shields.io/badge/Figma-%230d0d0d?style=for-the-badge&logo=figma&logoColor=f24e1e)
+![Git](https://img.shields.io/badge/Git-%230d0d0d?style=for-the-badge&logo=git&logoColor=f05032)
+![Vite](https://img.shields.io/badge/Vite-%230d0d0d?style=for-the-badge&logo=vite&logoColor=646cff)
+
 </div>
 
 ---
 
-## ⚡ [COMPROMISED NETWORKS & DATA EXFILTRATION SYNERGY]
+## 🎯 `// OPERAÇÕES CONCLUÍDAS — PROJETOS COMPROMETIDOS`
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonath-caik&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&card_width=400" />
-    </td>
-    <td align="center" width="50%">
-      <h3><b>🎛️ SYSTEM METRICS & DEPLOYMENT</b></h3>
-      <p align="left">
-        ☢️ <b>REACT INFILTRATION:</b> <br>
-        <img src="https://geps.dev/progress/95?dangerColor=8e44ad&warningColor=a29bfe&successColor=00f2fe" width="300" /> <br>
-        🧩 <b>JS EXPLOIT STRENGTH:</b> <br>
-        <img src="https://geps.dev/progress/90?dangerColor=2ecc71&warningColor=27ae60&successColor=2ecc71" width="300" /> <br>
-        👁️ <b>FIGMA OVERLAY BLUEPRINTS:</b> <br>
-        <img src="https://geps.dev/progress/88?dangerColor=ff6b6b&warningColor=ee5253&successColor=ff6b6b" width="300" />
-      </p>
-    </td>
-  </tr>
-</table>
+### 🍕 `[TARGET: DONA PIZZA]`
+> **Vetor de ataque:** `React Context API + State Management`
+> **Resultado:** Sistema de pizzaria com gerenciamento total de pedidos — interface responsiva e fluida, 100% sob controle.
+> 🔗 [`[ ACESSAR REPOSITÓRIO ]`](https://github.com/jonath-caik/Dona-pizza)
 
 ---
 
-## 🎯 [TARGET SYSTEMS & EXPLOIT VECTORS]
-
-### 🍕 <code>[COMPROMISED NETWORK: DONA PIZZA]</code>
-> **Vulnerabilidade Explorada:** `React Context / State Takeover`
-> **Payload:** Gerenciamento total e injeção de pedidos em interface responsiva fluida. Sistema de Pizzaria totalmente sob controle.
-> 💾 **`[ ACCESS EXFILTRATED DATA: ]`** 🔗 **[Dona Pizza Core](https://github.com/jonath-caik/Dona-pizza)**
-
-<br>
-
-### 🌿 <code>[DOMINATED NODE: NEABEMESTAR]</code>
-> **Vulnerabilidade Explorada:** `Figma Design Fidelity Injection`
-> **Payload:** Dominação completa de landing page voltada a bem-estar com alta performance e componentização limpa.
-> 💾 **`[ ACCESS EXFILTRATED DATA: ]`** 🔗 **[Módulo NeaBemEstar](https://github.com/jonath-caik/NeaBemEstar)**
+### 🌿 `[TARGET: NEA BEM ESTAR]`
+> **Vetor de ataque:** `Figma Design Fidelity + Componentização`
+> **Resultado:** Landing page de bem-estar com alta performance, pixel-perfect e responsividade total.
+> 🔗 [`[ ACESSAR REPOSITÓRIO ]`](https://github.com/jonath-caik/NeaBemEstar)
 
 ---
 
-## 📈 [DATA EXFILTRATION STREAM: LIVE DATA HARVEST]
+### 🎬 `[TARGET: LAYOUT YOUTUBE]`
+> **Vetor de ataque:** `HTML + CSS Clone Engineering`
+> **Resultado:** Replicação do layout do YouTube — estudo de estrutura e componentização visual.
+> 🔗 [`[ ACESSAR REPOSITÓRIO ]`](https://github.com/jonath-caik/layout-youtube)
+
+---
+
+### 🗺️ `[TARGET: PROJETO MTA]`
+> **Vetor de ataque:** `JavaScript Vanilla + DOM Manipulation`
+> **Resultado:** Projeto em desenvolvimento — exploração de dados e interatividade com JS.
+> 🔗 [`[ ACESSAR REPOSITÓRIO ]`](https://github.com/jonath-caik/Projeto-MTA)
+
+---
+
+### 👤 `[TARGET: MEU PORTFÓLIO]`
+> **Vetor de ataque:** `HTML + CSS — Identidade Visual`
+> **Resultado:** Portfólio pessoal como base de operações — apresentação de projetos e stacks.
+> 🔗 [`[ ACESSAR REPOSITÓRIO ]`](https://github.com/jonath-caik/MEU-PORTIFOLIO)
+
+---
+
+## 📊 `// DATA STREAM — MÉTRICAS AO VIVO`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonath-caik&theme=tokyonight&hide_border=true&area=true" width="100%" />
-</div>
 
-<br>
+![Stats](https://github-readme-stats.vercel.app/api?username=jonath-caik&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonath-caik&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&card_width=400)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jonath-caik&theme=tokyo-night&hide_border=true&area=true)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonath-caik&show_icons=true&theme=tokyonight&hide_border=true" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/BOTNET__SLAVES-FOLLOWERS-purple?style=social&logo=github" /> 
-  <img src="https://img.shields.io/github/followers/jonath-caik?label=%20&style=social" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/STOLEN__STARS-CREDENTIALS-cyan?style=social&logo=git" />
-  <img src="https://img.shields.io/github/stars/jonath-caik?label=%20&style=social" />
 </div>
 
 ---
+
+## 🔗 `// CONEXÕES ATIVAS`
+
 <div align="center">
-  <sub>[!] CONNECTIONS ESTABLISHED // SECURITY BYPASS SUCCESSFUL // DISCONNECTING...</sub>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230d0d0d?style=for-the-badge&logo=linkedin&logoColor=00f2fe)](https://www.linkedin.com/in/jonath-caik)
+[![GitHub](https://img.shields.io/badge/GitHub-%230d0d0d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonath-caik)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+[!] OPERAÇÃO CONCLUÍDA
+> CONEXÃO ENCERRADA...
+> ATÉ O PRÓXIMO DEPLOY. 🖤
+```
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,00f2fe,0d0d0d&height=120&section=footer" />
 </div>
