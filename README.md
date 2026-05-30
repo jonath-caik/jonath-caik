@@ -108,92 +108,79 @@ Git / GitHub   ███████████████░░░░░░  
 
 ## 🚀 Projetos em Destaque
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🍕 Dona Pizza</h3>
-      <div align="center">
-        <a href="https://github.com/jonath-caik/Dona-pizza" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Projeto-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </div>
-      <p align="center">
-        Sistema completo de pizzaria com gerenciamento de pedidos.<br/>
-        <strong>React • Context API • State Management</strong><br/>
-        Interface 100% responsiva e fluida.
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🌿 Nea Bem Estar</h3>
-      <div align="center">
-        <a href="https://github.com/jonath-caik/NeaBemEstar" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Projeto-2ECC71?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </div>
-      <p align="center">
-        Landing page de bem-estar, pixel-perfect a partir do Figma.<br/>
-        <strong>React • Figma • Componentização</strong><br/>
-        Alta performance e design limpo.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎬 Layout YouTube</h3>
-      <div align="center">
-        <a href="https://github.com/jonath-caik/layout-youtube" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Projeto-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-        </a>
-      </div>
-      <p align="center">
-        Clone fiel do layout do YouTube.<br/>
-        <strong>HTML • CSS • Responsividade</strong><br/>
-        Estudo profundo de estrutura e grid.
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">👤 Meu Portfólio</h3>
-      <div align="center">
-        <a href="https://github.com/jonath-caik/MEU-PORTIFOLIO" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Projeto-007ACC?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </div>
-      <p align="center">
-        Portfólio pessoal com projetos e stacks.<br/>
-        <strong>HTML • CSS • JavaScript</strong><br/>
-        Base de operações do dev.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🗺️ Projeto MTA</h3>
-      <div align="center">
-        <a href="https://github.com/jonath-caik/Projeto-MTA" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Projeto-8E44AD?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </div>
-      <p align="center">
-        Exploração com JavaScript Vanilla.<br/>
-        <strong>JavaScript • DOM • Interatividade</strong><br/>
-        Em desenvolvimento contínuo. 🔧
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🎮 Brincadeira</h3>
-      <div align="center">
-        <a href="https://github.com/jonath-caik/brincadeira" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Projeto-F39C12?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </div>
-      <p align="center">
-        Projeto experimental e criativo.<br/>
-        <strong>HTML • Criatividade • Diversão</strong><br/>
-        Porque codar também é brincar. 😄
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=💡+Cada+projeto+foi+uma+batalha+vencida...;🔥+Do+zero+ao+deploy+—+sem+parar;🧠+Aprendendo+na+prática+%7C+Construindo+o+futuro" />
+</div>
+
+<br/>
+
+<!-- ★ PROJETO DESTAQUE 1 ★ -->
+<div align="center">
+
+### 🍕 `[ PROJETO PRINCIPAL ]` — Dona Pizza
+
+<a href="https://github.com/jonath-caik/Dona-pizza">
+  <img src="https://img.shields.io/badge/🔗_ACESSAR_PROJETO-FF6B35?style=for-the-badge&logoColor=white"/>
+</a>
+<img src="https://img.shields.io/badge/STATUS-✅_Concluído-2ecc71?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STACK-React_|_Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+</div>
+
+> 🍕 Sistema **completo** de pizzaria — gerenciamento de pedidos, cardápio dinâmico e interface 100% responsiva.
+> Projeto que representa a **evolução real** no uso de React com Context API e State Management.
+> Layout fluido, componentização limpa e experiência de usuário pensada do zero.
+
+```
+📁 dona-pizza/
+├── 🧩 components/       → Componentes reutilizáveis
+├── 🔄 context/          → Gerenciamento de estado global
+├── 🎨 styles/           → CSS modular e responsivo
+└── 📱 App.jsx           → Entrada da aplicação
+```
+
+<br/>
+
+<!-- ★ PROJETO DESTAQUE 2 ★ -->
+<div align="center">
+
+### 🌿 `[ PROJETO PRINCIPAL ]` — Nea Bem Estar
+
+<a href="https://github.com/jonath-caik/NeaBemEstar">
+  <img src="https://img.shields.io/badge/🔗_ACESSAR_PROJETO-2ECC71?style=for-the-badge&logoColor=white"/>
+</a>
+<img src="https://img.shields.io/badge/STATUS-✅_Concluído-2ecc71?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STACK-React_|_Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
+</div>
+
+> 🌿 Landing page de bem-estar construída **pixel-perfect** a partir de um protótipo no Figma.
+> Demonstra domínio de **fidelidade ao design**, componentização avançada e alta performance.
+> Um projeto que mostra que código bonito e design bonito andam juntos.
+
+```
+📁 neabemestar/
+├── 🧩 components/       → Seções da landing page
+├── 🎨 assets/           → Imagens e ícones do Figma
+├── 💅 styles/           → CSS fiel ao protótipo
+└── 📱 App.jsx           → Composição das seções
+```
+
+<br/>
+
+<!-- OUTROS PROJETOS EM GRID -->
+<div align="center">
+
+### ✦ Outros Projetos
+
+| Projeto | Stack | Status | Link |
+|:-------:|:-----:|:------:|:----:|
+| 🎬 **Layout YouTube** | `HTML` `CSS` | ✅ Concluído | [ver →](https://github.com/jonath-caik/layout-youtube) |
+| 👤 **Meu Portfólio** | `HTML` `CSS` `JS` | ✅ Concluído | [ver →](https://github.com/jonath-caik/MEU-PORTIFOLIO) |
+| 🗺️ **Projeto MTA** | `JavaScript` | 🔧 Em progresso | [ver →](https://github.com/jonath-caik/Projeto-MTA) |
+| 🎮 **Brincadeira** | `HTML` | ✅ Concluído | [ver →](https://github.com/jonath-caik/brincadeira) |
+
+</div>
 
 ---
 
@@ -236,13 +223,56 @@ Git / GitHub   ███████████████░░░░░░  
 
 ## 🗺️ Minha Jornada
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=FFD700&center=true&vCenter=true&width=600&lines=De+zero+a+dev...+uma+linha+de+cada+vez+💛;Cada+commit+é+um+passo+a+mais+🚶‍♂️➡️🏃‍♂️;A+jornada+não+termina+—+só+muda+de+nível+🆙" />
+</div>
+
+<br/>
+
 ```
-2023  ──► Primeiros passos com HTML & CSS
-2024  ──► JavaScript + Projetos reais (Portfólio, YouTube Layout)
-2025  ──► React + TypeScript + Figma (Dona Pizza, Nea Bem Estar)
-2026  ──► 🎯 Aprimorando skills | Buscando oportunidades
-????  ──► 🚀 [PRÓXIMO NÍVEL DESBLOQUEADO...]
+╔══════════════════════════════════════════════════════════════════╗
+║                   🗓️  TIMELINE DO DEV                           ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  📌 2023  →  O INÍCIO                                            ║
+║             Primeiros passos com HTML & CSS                      ║
+║             [ aprendendo a estruturar o mundo ]                  ║
+║             ░░░░░░░░░░░░░░░░░░░░ SEED PLANTED 🌱                ║
+║                                                                  ║
+║  📌 2024  →  CONSTRUINDO BASE                                    ║
+║             JavaScript + DOM + Projetos reais                    ║
+║             Portfólio pessoal • Clone YouTube                    ║
+║             ████████░░░░░░░░░░░░ GROWING 🌿                     ║
+║                                                                  ║
+║  📌 2025  →  EVOLUINDO DE VERDADE                                ║
+║             React + TypeScript + Figma                           ║
+║             Dona Pizza • Nea Bem Estar                           ║
+║             ██████████████░░░░░░ LEVELING UP ⚡                  ║
+║                                                                  ║
+║  📌 2026  →  HOJE — MODO FOCO ATIVADO 🎯                        ║
+║             Aprimorando skills • Buscando oportunidades          ║
+║             Node.js • Tailwind • Projetos maiores                ║
+║             ███████████████████░ ALMOST THERE 🔥                 ║
+║                                                                  ║
+║  📌 ????  →  [ PRÓXIMO NÍVEL ] ████████████████████ 🚀          ║
+║             Desenvolvedor contratado • Impacto real              ║
+║             Referência para outros devs                          ║
+║             ████████████████████ UNLOCKED 🏆                     ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
+
+<div align="center">
+
+| Ano | Marco | Conquista |
+|:---:|:------|:---------:|
+| 🗓️ 2023 | Primeiro `<html>` da vida | 🌱 Iniciante |
+| 🗓️ 2024 | Primeiro projeto no ar | 🌿 Construindo |
+| 🗓️ 2025 | React + TS no mundo real | ⚡ Evoluindo |
+| 🗓️ 2026 | Focando no próximo nível | 🔥 Acelerando |
+| 🗓️ ???? | Dev profissional | 🚀 Em breve... |
+
+</div>
 
 ---
 
