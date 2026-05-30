@@ -1,0 +1,100 @@
+<svg width="800" height="80" viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d0d0d"/>
+      <stop offset="50%" style="stop-color:#1a0a2e"/>
+      <stop offset="100%" style="stop-color:#0d0d0d"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FFD700">
+        <animate attributeName="stop-color" values="#FFD700;#FFF176;#FFD700" dur="2s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" style="stop-color:#FFF176">
+        <animate attributeName="stop-color" values="#FFF176;#FFD700;#FF6B35;#FFD700;#FFF176" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#FF6B35">
+        <animate attributeName="stop-color" values="#FF6B35;#FFD700;#FFF176;#FF6B35" dur="2.5s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="glow2">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Fundo -->
+  <rect width="800" height="80" rx="10" fill="url(#bg)"/>
+
+  <!-- Borda animada -->
+  <rect width="798" height="78" x="1" y="1" rx="10" fill="none" stroke="#FFD700" stroke-width="1.5" opacity="0.4">
+    <animate attributeName="opacity" values="0.2;0.7;0.2" dur="2s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Partículas de fundo -->
+  <circle cx="50" cy="20" r="1.5" fill="#FFD700" opacity="0.5">
+    <animate attributeName="opacity" values="0;1;0" dur="2.1s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="20;15;20" dur="2.1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="150" cy="55" r="1" fill="#FFF176" opacity="0.4">
+    <animate attributeName="opacity" values="0;1;0" dur="1.7s" begin="0.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="700" cy="25" r="1.5" fill="#FF6B35" opacity="0.5">
+    <animate attributeName="opacity" values="0;1;0" dur="2.3s" begin="0.3s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="25;30;25" dur="2.3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="620" cy="60" r="1" fill="#FFD700" opacity="0.4">
+    <animate attributeName="opacity" values="0;1;0" dur="1.9s" begin="0.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="400" cy="10" r="1.2" fill="#FFF176" opacity="0.3">
+    <animate attributeName="opacity" values="0;0.8;0" dur="2.5s" begin="1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="250" cy="70" r="1" fill="#FF6B35" opacity="0.4">
+    <animate attributeName="opacity" values="0;1;0" dur="1.8s" begin="0.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Linha decorativa esquerda -->
+  <line x1="20" y1="40" x2="60" y2="40" stroke="#FFD700" stroke-width="1" opacity="0.6">
+    <animate attributeName="x2" values="40;70;40" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" repeatCount="indefinite"/>
+  </line>
+  <polygon points="58,36 68,40 58,44" fill="#FFD700" opacity="0.7">
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2s" repeatCount="indefinite"/>
+  </polygon>
+
+  <!-- Linha decorativa direita -->
+  <line x1="780" y1="40" x2="740" y2="40" stroke="#FFD700" stroke-width="1" opacity="0.6">
+    <animate attributeName="x2" values="760;730;760" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" repeatCount="indefinite"/>
+  </line>
+  <polygon points="742,36 732,40 742,44" fill="#FFD700" opacity="0.7">
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2s" repeatCount="indefinite"/>
+  </polygon>
+
+  <!-- Texto principal com glow -->
+  <text x="400" y="30" text-anchor="middle" font-family="Fira Code, monospace" font-size="15" font-weight="bold"
+    fill="url(#textGrad)" filter="url(#glow)">
+    🚀 De zero a dev... uma linha de cada vez 💛
+    <animate attributeName="opacity" values="0.8;1;0.8" dur="2s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Subtexto -->
+  <text x="400" y="55" text-anchor="middle" font-family="Fira Code, monospace" font-size="11" fill="#aaaaaa" opacity="0.8">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" begin="0.5s" repeatCount="indefinite"/>
+    Cada commit é um passo a mais  •  A jornada não termina — só muda de nível 🆙
+  </text>
+
+  <!-- Cursor piscando -->
+  <rect x="565" y="42" width="8" height="14" fill="#FFD700" rx="1">
+    <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
+  </rect>
+</svg>
