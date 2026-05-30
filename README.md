@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=jonath-caik&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Front-End+Developer+%7C+Software+Eng.+Student&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Jonath-Caik&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Front-End+Developer+%7C+Software+Eng.+Student&descAlignY=55&descSize=18" />
 </div>
 
 <!-- TYPING ANIMATION -->
@@ -231,7 +231,7 @@ Git / GitHub   ███████████████░░░░░░  
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║                   🗓️  TIMELINE DO DEV                           ║
+║                   🗓️ TIMELINE DO DEV                            ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║                                                                  ║
 ║  📌 2023  →  O INÍCIO                                            ║
@@ -322,7 +322,7 @@ Git / GitHub   ███████████████░░░░░░  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonath-caik)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonath-caik)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caikmilitar@gmail.com)
 
 </div>
 
@@ -333,7 +333,6 @@ Git / GitHub   ███████████████░░░░░░  
   <i>Se gostou do meu perfil, deixa uma ⭐ em algum projeto — significa muito!</i>
 </div>
 
----
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   SNAKE CONTRIBUTION                           -->
@@ -341,14 +340,22 @@ Git / GitHub   ███████████████░░░░░░  
 
 ## 🐍 Contribuições sendo devoradas...
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jonath-caik/jonath-caik/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-> ⚠️ Para ativar a cobra, crie uma GitHub Action no seu repo com [este tutorial](https://github.com/Platane/snk).
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    certer
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 ---
-
 <!-- FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
